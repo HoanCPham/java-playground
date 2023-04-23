@@ -12,7 +12,5 @@ public class Dog extends Animal {
     }
 
     @Override
-    public void play(Toy toy) {
-        System.out.println("DOG " + name + " is trying to eat the toy " + toy);
-    }
+
 }

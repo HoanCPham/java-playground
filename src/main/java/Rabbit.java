@@ -12,7 +12,5 @@ public class Rabbit extends Animal {
     }
 
     @Override
-    public void play(Toy toy) {
-        System.out.println("Rabbit " + name + " is ignoring the toy" + toy);
-    }
+
 }

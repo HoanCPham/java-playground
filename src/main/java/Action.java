@@ -1,5 +1,5 @@
 public interface Action {
     void play();
 
-    void play(Toy toy);
+   void play(Toy toy);
 }
