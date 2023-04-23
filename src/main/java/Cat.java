@@ -10,8 +10,8 @@ public class Cat extends Animal {
     }
 
     @Override
-    public void play(Toy toy) {
-        System.out.println("Cat " + name + " is chasing the " + toy);
+    public void play(Toy legoToy) {
+        System.out.println("Cat " + name + " is chasing the " + legoToy);
     }
 
 }
