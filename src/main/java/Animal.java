@@ -5,5 +5,6 @@ public abstract class Animal implements Action {
     public Animal(String name, int age) {
         this.name = name;
         this.age = age;
+
     }
 }

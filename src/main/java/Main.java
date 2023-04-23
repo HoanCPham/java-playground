@@ -5,7 +5,7 @@ public class Main {
         Rabbit rabbit = new Rabbit("snowball", 3, "black");
         Toy robot = new Toy("curious George");
 
-        Toy legoToy = new Toy("lego super car");
+        Toy legoToy = new Toy("lego super cars");
 
         Action[] animals = new Action[]{coco, max, rabbit, robot};
         for (Action friend : animals) {
